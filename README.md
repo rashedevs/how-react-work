@@ -1,6 +1,7 @@
-# How React Works
+# How React Works (updated)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## I will read [reactjs.org](https://reactjs.org/docs/hello-world.html) completely.
 
 ## Available Scripts
 
